@@ -84,4 +84,4 @@ Disfruta!
 
 ## Blueprint Implementation
 
-![](Images/16_TimerBy FunctionName.png)
+![](Images/16_TimerByFunctionName.png)
