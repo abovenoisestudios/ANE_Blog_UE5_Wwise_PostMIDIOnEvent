@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F8990725-344B-4AB5-940C-E26C0093205D}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F8990725-344B-4AB5-940C-E26C0093205D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Gunshot_MIDI" ID="{1575C5A8-D4F5-44D8-AF69-B3EEEB4BF7FF}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="20"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{7F60214E-503B-4CDE-A0B7-977562C02D93}" ShortID="936007323">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gunshot_MIDI" ID="{AA1DFB77-B792-4F39-AE8B-7C7C205468B0}" WorkUnitID="{3040F560-F6CB-4F97-8527-1B7252ACD25B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Gunshot_Tail" ID="{8E665928-FCCF-4CC7-A0B1-7FE926CCBCB4}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="2"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{43F9087F-071D-40D4-BAAC-DCE3A16F0F36}" ShortID="380306306">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gunshot_Tail" ID="{5C5B92B5-CA22-4097-99BC-48C054DD215B}" WorkUnitID="{3040F560-F6CB-4F97-8527-1B7252ACD25B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bullet_Impact" ID="{BA141C0C-B3E5-42D7-A3BC-0841C457714E}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{02D8A8CF-CD9F-4DC2-86B1-BEB6A976EA25}" ShortID="968218786">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bullet_Impacts" ID="{08097E37-169B-4EA0-9E8A-C6E47D86D77F}" WorkUnitID="{3040F560-F6CB-4F97-8527-1B7252ACD25B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

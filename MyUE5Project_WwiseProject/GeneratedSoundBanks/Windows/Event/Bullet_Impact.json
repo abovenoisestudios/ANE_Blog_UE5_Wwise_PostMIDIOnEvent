@@ -1,0 +1,141 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3921814510",
+    "Type": "Event",
+    "GUID": "{BA141C0C-B3E5-42D7-A3BC-0841C457714E}",
+    "Language": "SFX",
+    "Hash": "{23A9F2DE-18ED-6174-BF3E-89A0B72E3A4F}",
+    "ObjectPath": "Bullet_Impact",
+    "ShortName": "Bullet_Impact",
+    "Path": "Event/Bullet_Impact.bnk",
+    "Media": [
+     {
+      "Id": "115002319",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bullet_Impact_4.wav",
+      "Path": "Media/115002319.wem",
+      "CachePath": "SFX/Bullet_Impact_4_818F3B66.wem"
+     },
+     {
+      "Id": "156526235",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ricochet_2.wav",
+      "Path": "Media/156526235.wem",
+      "CachePath": "SFX/Ricochet_2_818F3B66.wem"
+     },
+     {
+      "Id": "447851172",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ricochet_4.wav",
+      "Path": "Media/447851172.wem",
+      "CachePath": "SFX/Ricochet_4_818F3B66.wem"
+     },
+     {
+      "Id": "519985874",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bullet_Impact_1.wav",
+      "Path": "Media/519985874.wem",
+      "CachePath": "SFX/Bullet_Impact_1_818F3B66.wem"
+     },
+     {
+      "Id": "587256041",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bullet_Impact_3.wav",
+      "Path": "Media/587256041.wem",
+      "CachePath": "SFX/Bullet_Impact_3_818F3B66.wem"
+     },
+     {
+      "Id": "595480424",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bullet_Impact_2.wav",
+      "Path": "Media/595480424.wem",
+      "CachePath": "SFX/Bullet_Impact_2_818F3B66.wem"
+     },
+     {
+      "Id": "644659303",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ricochet_3.wav",
+      "Path": "Media/644659303.wem",
+      "CachePath": "SFX/Ricochet_3_818F3B66.wem"
+     },
+     {
+      "Id": "659556248",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ricochet_1.wav",
+      "Path": "Media/659556248.wem",
+      "CachePath": "SFX/Ricochet_1_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3921814510",
+      "Name": "Bullet_Impact",
+      "ObjectPath": "\\Events\\Default Work Unit\\Bullet_Impact",
+      "GUID": "{BA141C0C-B3E5-42D7-A3BC-0841C457714E}",
+      "MaxAttenuation": "750",
+      "DurationType": "OneShot",
+      "DurationMin": "0.23713264",
+      "DurationMax": "0.27290908",
+      "MediaRefs": [
+       {
+        "Id": "115002319"
+       },
+       {
+        "Id": "156526235"
+       },
+       {
+        "Id": "447851172"
+       },
+       {
+        "Id": "519985874"
+       },
+       {
+        "Id": "587256041"
+       },
+       {
+        "Id": "595480424"
+       },
+       {
+        "Id": "644659303"
+       },
+       {
+        "Id": "659556248"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "348963605",
+        "Name": "Reverb",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Reverb",
+        "GUID": "{B45D535A-C3F8-430B-9113-2BA5966F77DD}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B57A9A71-D45E-F029-8BAC-EE77B90E958E}"
+ }
+}

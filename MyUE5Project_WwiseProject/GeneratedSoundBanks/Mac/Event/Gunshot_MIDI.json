@@ -1,0 +1,237 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1644613223",
+    "Type": "Event",
+    "GUID": "{1575C5A8-D4F5-44D8-AF69-B3EEEB4BF7FF}",
+    "Language": "SFX",
+    "Hash": "{E20AEF88-B413-47DF-A6AD-990133F55B7C}",
+    "ObjectPath": "Gunshot_MIDI",
+    "ShortName": "Gunshot_MIDI",
+    "Path": "Event/Gunshot_MIDI.bnk",
+    "Media": [
+     {
+      "Id": "47079688",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Kick_4.wav",
+      "Path": "Media/47079688.wem",
+      "CachePath": "SFX/Kick_4_818F3B66.wem"
+     },
+     {
+      "Id": "61643614",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ping_3.wav",
+      "Path": "Media/61643614.wem",
+      "CachePath": "SFX/Ping_3_818F3B66.wem"
+     },
+     {
+      "Id": "110935443",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Main_4.wav",
+      "Path": "Media/110935443.wem",
+      "CachePath": "SFX/Shot_Main_4_818F3B66.wem"
+     },
+     {
+      "Id": "128096481",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ping_4.wav",
+      "Path": "Media/128096481.wem",
+      "CachePath": "SFX/Ping_4_818F3B66.wem"
+     },
+     {
+      "Id": "136142865",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Mech_4.wav",
+      "Path": "Media/136142865.wem",
+      "CachePath": "SFX/Shot_Mech_4_818F3B66.wem"
+     },
+     {
+      "Id": "247283160",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ping_1.wav",
+      "Path": "Media/247283160.wem",
+      "CachePath": "SFX/Ping_1_818F3B66.wem"
+     },
+     {
+      "Id": "340633053",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Main_2.wav",
+      "Path": "Media/340633053.wem",
+      "CachePath": "SFX/Shot_Main_2_818F3B66.wem"
+     },
+     {
+      "Id": "354742871",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Kick_2.wav",
+      "Path": "Media/354742871.wem",
+      "CachePath": "SFX/Kick_2_818F3B66.wem"
+     },
+     {
+      "Id": "389797446",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Main_1.wav",
+      "Path": "Media/389797446.wem",
+      "CachePath": "SFX/Shot_Main_1_818F3B66.wem"
+     },
+     {
+      "Id": "392177653",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Main_3.wav",
+      "Path": "Media/392177653.wem",
+      "CachePath": "SFX/Shot_Main_3_818F3B66.wem"
+     },
+     {
+      "Id": "572939397",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Mech_2.wav",
+      "Path": "Media/572939397.wem",
+      "CachePath": "SFX/Shot_Mech_2_818F3B66.wem"
+     },
+     {
+      "Id": "643443212",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Kick_3.wav",
+      "Path": "Media/643443212.wem",
+      "CachePath": "SFX/Kick_3_818F3B66.wem"
+     },
+     {
+      "Id": "833757397",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Kick_1.wav",
+      "Path": "Media/833757397.wem",
+      "CachePath": "SFX/Kick_1_818F3B66.wem"
+     },
+     {
+      "Id": "835603136",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Mech_1.wav",
+      "Path": "Media/835603136.wem",
+      "CachePath": "SFX/Shot_Mech_1_818F3B66.wem"
+     },
+     {
+      "Id": "855336406",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ping_2.wav",
+      "Path": "Media/855336406.wem",
+      "CachePath": "SFX/Ping_2_818F3B66.wem"
+     },
+     {
+      "Id": "1053228644",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Shot_Mech_3.wav",
+      "Path": "Media/1053228644.wem",
+      "CachePath": "SFX/Shot_Mech_3_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1644613223",
+      "Name": "Gunshot_MIDI",
+      "ObjectPath": "\\Events\\Default Work Unit\\Gunshot_MIDI",
+      "GUID": "{1575C5A8-D4F5-44D8-AF69-B3EEEB4BF7FF}",
+      "MaxAttenuation": "3000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.7885306",
+      "DurationMax": "0.81163627",
+      "MediaRefs": [
+       {
+        "Id": "47079688"
+       },
+       {
+        "Id": "61643614"
+       },
+       {
+        "Id": "110935443"
+       },
+       {
+        "Id": "128096481"
+       },
+       {
+        "Id": "136142865"
+       },
+       {
+        "Id": "247283160"
+       },
+       {
+        "Id": "340633053"
+       },
+       {
+        "Id": "354742871"
+       },
+       {
+        "Id": "389797446"
+       },
+       {
+        "Id": "392177653"
+       },
+       {
+        "Id": "572939397"
+       },
+       {
+        "Id": "643443212"
+       },
+       {
+        "Id": "833757397"
+       },
+       {
+        "Id": "835603136"
+       },
+       {
+        "Id": "855336406"
+       },
+       {
+        "Id": "1053228644"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "348963605",
+        "Name": "Reverb",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Reverb",
+        "GUID": "{B45D535A-C3F8-430B-9113-2BA5966F77DD}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DD73DCCA-3493-2FCB-47CE-E117CC15AD44}"
+ }
+}

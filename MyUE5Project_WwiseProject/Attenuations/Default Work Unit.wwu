@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7F091979-2582-41A5-A0C0-90C64E562321}" SchemaVersion="119">
+	<Attenuations>
+		<WorkUnit Name="Default Work Unit" ID="{7F091979-2582-41A5-A0C0-90C64E562321}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Gunshots" ID="{24CB7F66-1048-479D-B037-4D8151C7CCF5}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Attenuations>
+</WwiseDocument>

@@ -1,0 +1,57 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2216140858",
+    "Type": "Event",
+    "GUID": "{8E665928-FCCF-4CC7-A0B1-7FE926CCBCB4}",
+    "Language": "SFX",
+    "Hash": "{F1195EAD-81B6-6A7F-EF89-437DB7BD8B44}",
+    "ObjectPath": "Gunshot_Tail",
+    "ShortName": "Gunshot_Tail",
+    "Path": "Event/Gunshot_Tail.bnk",
+    "Media": [
+     {
+      "Id": "630956242",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Tail.wav",
+      "Path": "Media/630956242.wem",
+      "CachePath": "SFX/Tail_C5FFC479.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2216140858",
+      "Name": "Gunshot_Tail",
+      "ObjectPath": "\\Events\\Default Work Unit\\Gunshot_Tail",
+      "GUID": "{8E665928-FCCF-4CC7-A0B1-7FE926CCBCB4}",
+      "MaxAttenuation": "3000",
+      "DurationType": "OneShot",
+      "DurationMin": "2.2402735",
+      "DurationMax": "2.2402735",
+      "MediaRefs": [
+       {
+        "Id": "630956242"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "348963605",
+        "Name": "Reverb",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Reverb",
+        "GUID": "{B45D535A-C3F8-430B-9113-2BA5966F77DD}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{488248E9-DD13-E8AA-0514-6F5ECAE223E3}"
+ }
+}
