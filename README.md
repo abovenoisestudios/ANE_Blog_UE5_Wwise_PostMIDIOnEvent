@@ -9,7 +9,7 @@ Created By: Horacio Valdivieso\
 
 ---
 _Unreal Engine Version: **5.3.2**_\
-_Wwise Version: **2023.1.0.8367**_
+_Wwise Version: **2023.1.1.8417**_
 
 ### **English:**
 This repository contains an Unreal Engine 5 project, and a Wwise project.
